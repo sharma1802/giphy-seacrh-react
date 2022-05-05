@@ -26,6 +26,39 @@ export default function HomePage() {
       <div>This is home page</div>
       <div>This is home page</div>
       <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
       <button type="button" onClick={() => route('project')}>
         Go to project
       </button>
