@@ -16,6 +16,49 @@ export default function HomePage() {
   return (
     <div className="app">
       <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
+      <div>This is home page</div>
       <button type="button" onClick={() => route('project')}>
         Go to project
       </button>
